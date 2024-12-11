@@ -87,7 +87,7 @@ Ensure you have Firebase CLI installed and configured with your Firebase project
 
 ### Demo Video
 
-[![App Demo Video](https://via.placeholder.com/468x300?text=Click+to+Watch+Demo)](https://www.youtube.com/watch?v=your-video-id)
+[![App Demo Video](1733912233083898 (1).mp4)
 
 ## Contribution
 
