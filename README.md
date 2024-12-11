@@ -83,11 +83,9 @@ React-And-Firebase-Ecommerce/
 
 Ensure you have Firebase CLI installed and configured with your Firebase project.
 
-## Screenshots
-
 ### Demo Video
 
-[![App Demo Video](1733912233083898 (1).mp4)
+[![App Demo Video](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)](https://github.com/AdityaJyoti2002/React-And-Firebase-Ecommerce/blob/52da618d13c20d68dc9ac7c3a488e03c1fa70471/1733912233083898%20(1).mp4)
 
 ## Contribution
 
